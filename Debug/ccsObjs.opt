@@ -1,0 +1,6 @@
+"./main.obj"
+"./libs/sensor.obj"
+"./libs/servomotor.obj"
+"../lnk_msp430f5529.cmd"
+-llibmath.a
+-llibc.a
